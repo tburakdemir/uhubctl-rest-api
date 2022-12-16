@@ -1,0 +1,20 @@
+{
+  "name": "uhubctl-rest-api",
+  "version": "1.0.0",
+  "description": "A rest api which controls uhubctl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tburakdemir/uhubctl-rest-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tburakdemir/uhubctl-rest-api/issues"
+  },
+  "homepage": "https://github.com/tburakdemir/uhubctl-rest-api#readme"
+}
